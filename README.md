@@ -1,4 +1,4 @@
-### Hi, I'm Artem 👋
+### Hi 👋
 ---
 ## I'm a Developer!!
 
