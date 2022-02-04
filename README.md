@@ -2,10 +2,10 @@
 ---
 ## I'm a Developer!!
 
-- 🔭 I just worked as Full Stack JS Developer
+- 🔭 I'm working as Full Stack JS Developer
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other creators
-- ⚡ Fun fact: I love to play guitar
+- 👯 I'm looking for collaboration with other creators
+- ⚡ Fun fact: I love to play guitar and paragliding
 
 ---
 ### Languages and Tools:
