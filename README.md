@@ -4,7 +4,7 @@
 
 - 🔭 I'm working as Full Stack JS Developer
 - 👯 I'm looking for collaboration with other creators
-- ⚡ Fun fact: I love to play guitar and paragliding
+- ⚡ I love to play guitar and paragliding 🪂
 
 ---
 ### Languages and Tools:
