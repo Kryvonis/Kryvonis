@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I've been learning to code more than 8. I started as Python Back End Engineer, working in RND Department with AI and Machine Learning, worked with spatial data. Now passion as Full Stack Developer on JS/TS
+I've been learning to code more than 8 years. I started as Python Back End Engineer, working in RND Department with AI and Machine Learning, worked with spatial data. Now passion as Full Stack Developer on JS/TS
 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [kryvonis.artem@gmail.com](mailto:kryvonis.artem@gmail.com)
