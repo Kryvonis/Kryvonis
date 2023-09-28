@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Artem Kryvonis
+Hi! My name is Artem Kryvonis
 ======================================================================================================================================
 
 Software Engineer
@@ -6,9 +6,8 @@ Software Engineer
 
 I've been learning to code more than 8 years. I started as Python Back End Engineer, working in RND Department with AI and Machine Learning, worked with spatial data. Now passion as Full Stack Developer on JS/TS
 
-* 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [kryvonis.artem@gmail.com](mailto:kryvonis.artem@gmail.com)
-* 🤝  I'm open to collaborating on Project with spatial data
+* 🤝  I'm open to collaborating on Project based on Python, Go, JS/TS
 * ⚡  Love to play the guitar and paragliding
 
 ### Skills
