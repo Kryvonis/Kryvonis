@@ -1,10 +1,7 @@
-Hi! My name is Artem Kryvonis
+Hi!
 ======================================================================================================================================
 
-Software Engineer
------------------
-
-I've been learning to code more than 8 years. I started as Python Back End Engineer, working in RND Department with AI and Machine Learning, worked with spatial data. Now passion as Full Stack Developer with JS/TS
+I've been learning to code more than 10 years. I started as Python Back End Engineer, working in RND Department with AI and Machine Learning, worked with spatial data. Now passion as Full Stack Developer
 
 * ✉️  You can contact me at [kryvonis.artem@gmail.com](mailto:kryvonis.artem@gmail.com)
 * 🤝  I'm open to collaborating on Project based on Python, Go, JS/TS
