@@ -1,14 +1,8 @@
-Hi!
+Hello World!
 ======================================================================================================================================
-
-I've been learning to code more than 10 years. I started as Python Back End Engineer, working in RND Department with AI and Machine Learning, worked with spatial data. Now I'm passion with Full Stack Development and System Design
-
 * ✉️  You can contact me at [kryvonis.artem@gmail.com](mailto:kryvonis.artem@gmail.com)
-* 🤝  I'm open to collaborating on Project based on Python, Go, JS/TS
-* ⚡  Love to play the guitar and paragliding
 
 ### Skills
-
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
